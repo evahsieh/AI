@@ -1,5 +1,4 @@
 # AI
-SCHOOL #Pacman Ghost Algorithm - www.101computing.net/pacman-ghost-algorithm/
 from math import atan, cos, sin
 from processing import *
 
